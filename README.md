@@ -5,4 +5,5 @@
 4. Day 27 - Double Vertical Slider <br>
 5. Day 28 - Github Profiles <br>
 6. Day 29 - Double CLick Heart <br>
+7. Day 29 - Auto Text Effect <br>
 

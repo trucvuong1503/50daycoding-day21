@@ -7,4 +7,5 @@
 6. Day 29 - Double CLick Heart <br>
 7. Day 30 - Auto Text Effect <br>
 8. Day 31 - Password Generate <br>
+9. Day 32 - Good, Cheap, Fast Checkboxes <br>
 

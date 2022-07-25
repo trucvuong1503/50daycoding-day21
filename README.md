@@ -13,3 +13,4 @@
 12. Day 35 - Hoverboard <br>
 13. Day 36 - Pokedex <br>
 14. Day 37 - Moblie Tab Navigation <br>
+15. Day 39 - Password Strength Background<br>

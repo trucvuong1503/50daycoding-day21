@@ -10,7 +10,8 @@
 9. Day 32 - Good, Cheap, Fast Checkboxes <br>
 10. Day 33 - Notes App <br>
 11. Day 34 - Animated Countdown <br>
-12. Day 35 - Hoverboard <br>
-13. Day 36 - Pokedex <br>
-14. Day 37 - Moblie Tab Navigation <br>
-15. Day 39 - Password Strength Background<br>
+12. Day 35 - Image Carousel<br>
+13. Day 36 - Hoverboard<br>
+14. Day 37 - Pokedex<br>
+15. Day 38 - Moblie Tab Navigation <br>
+16. Day 39 - Password Strength Background<br>

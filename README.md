@@ -16,3 +16,4 @@
 15. Day 38 - Moblie Tab Navigation <br>
 16. Day 39 - Password Strength Background<br>
 17. Day 40 - 3D Boxes Background<br>
+18. Day 41 - Verify Account<br>
